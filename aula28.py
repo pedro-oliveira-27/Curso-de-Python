@@ -40,6 +40,7 @@ while True:
             print('Você pode melhorar') 
 
         print('GAME OVER')
+        print('*****************')
         print(15*'-')
 
 
